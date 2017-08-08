@@ -1,0 +1,5 @@
+/.vscode
+/app
+/build
+.lock-waf_darwin_build
+a.out
